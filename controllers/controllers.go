@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 package controllers
+=======
+// controllers/controllers.go
+
+package main
+>>>>>>> c354c43 (go)
 
 import (
 	"net/http"
